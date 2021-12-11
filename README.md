@@ -46,11 +46,11 @@
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=flat&logo=google-cloud&logoColor=white)
     
 ### Enviroment, IDEs and Tools
-    ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
-    ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) 
-    ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) 
-    ![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows) 
-    ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC) 
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat&logo=ubuntu&logoColor=white) 
+![Windows](https://img.shields.io/badge/-Windows%2011-333333?style=flat&logo=windows) 
+![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=flat&logo=heroku&logoColor=white) 
 </br>
 
 ## Technologies I'm interested to learn more
