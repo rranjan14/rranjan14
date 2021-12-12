@@ -14,7 +14,7 @@
 - 🧑‍💻 Software Developer since 2020, Full-Stack most time 
 - 💼 Currently working at <a href="https://app.instasell.in/">InstaSell</a> </br> 
   
-## Tech Knowdledge 
+## Tech Knowledge 
   
 ### Languages 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
