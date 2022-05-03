@@ -10,7 +10,7 @@
 - 🎼 Love music 
 - 🎓 BTech in Computer Science on progress 
 - 🧑‍💻 Software Developer since 2020, Full-Stack most time 
-- 💼 Currently working at <a href="https://app.instasell.in/">InstaSell</a> </br> 
+- 💼 Currently working at <a href="https://instasell.in/">Instasell</a> </br> 
   
 ## Tech Knowledge 
   
