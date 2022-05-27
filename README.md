@@ -12,10 +12,6 @@ I am a full stack developer currently building mobile applications in React Nati
   
 
 ## GitHub Analytics 
-<p align="center"> 
-<a href="https://github.com/rranjan14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rranjan14&count_private=true&show_icons=true&theme=merko" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rranjan14&theme=merko&layout=compact&langs_count=10&exclude_repo=gamebase" />
-  <img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=rranjan14&theme=merko"/>
-</a> 
-</p>
+[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rranjan14&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/rranjan14)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rranjan14&theme=gruvbox)](https://github.com/rranjan14)
