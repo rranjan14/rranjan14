@@ -1,7 +1,7 @@
 # Hi there 👋
 
 <p align="center"> 
-<a href="https://www.linkedin.com/in/rahul-ranjan-1bb40016a/"><img src="https://img.shields.io/badge/-Rahul%20Ranjan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/</a><a href="https://www.instagram.com/ranjan.18/"><img src="https://img.shields.io/badge/-@rahultwts_-333333?style=flat-square&logo=instagram"/></a>
+<a href="https://www.linkedin.com/in/rahul-ranjan-1bb40016a/"><img src="https://img.shields.io/badge/-Rahul%20Ranjan-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/</a><a href="https://www.instagram.com/ranjan.18/"><img src="https://img.shields.io/badge/-@ranjan.18_-333333?style=flat-square&logo=instagram"/></a>
 <a href="https://discord.com/users/618156290581200929"><img src="https://img.shields.io/badge/-Rahul Ranjan%235368-333333?style=flat-square&logo=discord"/></a>
 <a href="https://twitter.com/itsranjan18"><img src="https://img.shields.io/badge/Rahul Ranjan-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
   
