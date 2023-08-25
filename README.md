@@ -6,7 +6,7 @@
 <a href="https://twitter.com/rahultwts_"><img src="https://img.shields.io/badge/Rahul Ranjan-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
   
 ## About Me 
-- Currently working at <a href="[https://instasell.in/](https://www.linkedin.com/company/wokayhq/about/]">Wokay</a> </br> 
+- Currently working at <a href="https://instasell.in/](https://www.linkedin.com/company/wokayhq/about/">Wokay</a> </br> 
 
 I am a full stack developer currently building mobile applications in React Native and websites in React and React frameworks. With a deep interest in technology, I constantly keep learning new things in tech and in general as well.
   
