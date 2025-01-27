@@ -6,9 +6,12 @@
 <a href="https://twitter.com/rahultwts_"><img src="https://img.shields.io/badge/Rahul Ranjan-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
   
 ## About Me 
-- Currently working at <a href="https://wokay.com">Wokay</a> </br> 
+- Currently working at <a href="https://www.empirical.run/">Empirical.run</a> </br> 
 
-I am a full stack developer currently building mobile applications in React Native and websites in React and React frameworks. With a deep interest in technology, I constantly keep learning new things in tech and in general as well.
+I'm a passionate technologist with a diverse background in software development. I started my journey as a full stack developer, where I gained hands-on experience building end-to-end web applications and working with various frameworks and databases. This role helped me develop a strong foundation in both frontend and backend technologies.
+I then transitioned into mobile development, specializing in React Native. This allowed me to create cross-platform mobile applications and gave me valuable insights into the mobile ecosystem. I enjoyed the challenge of optimizing app performance and creating seamless user experiences across different devices.
+Currently, I'm diving deep into the world of Artificial Intelligence. I find the rapid advancements in AI fascinating and am actively learning about all things AI and their practical applications. It's exciting to be part of this transformative field.
+I'm particularly drawn to cutting-edge technologies and the startup ecosystem. The fast-paced environment and opportunity to work on innovative solutions really energize me. I thrive in spaces where I can push technological boundaries and contribute to projects that have the potential to make a significant impact.
   
 
 ## GitHub Analytics 
