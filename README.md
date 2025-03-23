@@ -14,9 +14,3 @@ I then transitioned into mobile development, specializing in [React Native](http
 Currently, I'm diving deep into the world of Artificial Intelligence. I find the rapid advancements in AI fascinating and am actively learning about all things AI and their practical applications. It's exciting to be part of this transformative field.
 
 I'm particularly drawn to cutting-edge technologies and the startup ecosystem. The fast-paced environment and opportunity to work on innovative solutions really energize me. I thrive in spaces where I can push technological boundaries and contribute to projects that have the potential to make a significant impact.
-  
-
-## GitHub Analytics 
-[![Rahul's GitHub stats](https://github-readme-stats.vercel.app/api?username=rranjan14&show_icons=true&count_private=true&theme=gruvbox)](https://github.com/rranjan14)
-
-<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rranjan14&theme=gruvbox&layout=compact&langs_count=6&exclude_repo=gamebase" />
