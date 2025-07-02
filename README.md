@@ -6,8 +6,6 @@
 <a href="https://twitter.com/rahultwts_"><img src="https://img.shields.io/badge/Rahul Ranjan-1DA1F2?style=flat&logo=twitter&logoColor=white"/></a>
   
 ## About Me 
-Currently working at <a href="https://www.empirical.run/">Empirical.run</a> </br> 
-
 I'm a passionate technologist with a diverse background in software development. I started my journey as a full stack developer, where I gained hands-on experience building end-to-end web applications and working with various frameworks and databases. This role helped me develop a strong foundation in both frontend and backend technologies.
 
 I then transitioned into mobile development, specializing in [React Native](https://reactnative.dev/). This allowed me to create cross-platform mobile applications and gave me valuable insights into the mobile ecosystem. I enjoyed the challenge of optimizing app performance and creating seamless user experiences across different devices.
